@@ -106,7 +106,7 @@
     <div class="summary-card">
 
         <div class="summary-icon">
-            📚
+            <i class="fa-solid fa-book-open"></i>
         </div>
 
         <h3>Book Titles</h3>
@@ -125,7 +125,7 @@
     <div class="summary-card">
 
         <div class="summary-icon">
-            📦
+            <i class="fa-solid fa-boxes-stacked"></i>
         </div>
 
         <h3>Copies in Stock</h3>
@@ -144,7 +144,7 @@
     <div class="summary-card">
 
         <div class="summary-icon">
-            !
+            <i class="fa-solid fa-triangle-exclamation"></i>
         </div>
 
         <h3>Out of Stock</h3>
