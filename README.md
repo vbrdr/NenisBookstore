@@ -31,3 +31,14 @@ Neni's Bookstore is a web-based application designed to help organize book infor
 ## Project Note
 
 This project was developed for educational purposes to practice Laravel development, database operations, form validation, and basic inventory management.
+
+## Application Screenshots
+
+### Book Collection
+![Book Collection](book-collection.png)
+
+### Add New Book
+![Add New Book](add-book.png)
+
+### Store Summary
+![Store Summary](store-summary.png)
